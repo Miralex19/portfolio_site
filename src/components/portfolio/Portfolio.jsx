@@ -10,7 +10,7 @@ const data = [
     id: 1,
     image: IMG1,
     title: "Personal Portfolio Site",
-    github: "https://github.com",
+    github: "https://github.com/Miralex19/portfolio_site",
     demo: "dribbble.com",
   },
 
